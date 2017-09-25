@@ -15,6 +15,6 @@ data = [{'a' : 1, 'b' : 2,'c' : 3,'c' : 4, 'e' :5}]
 
 # print json
 
-json = json.dumps(data,sort_keys=True,indent=None4,separators=(',',':'))
+# json = json.dumps(data,sort_keys=True,indent=None4,separators=(',',':'))
 
-print json
+# print json
